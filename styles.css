@@ -1,0 +1,55 @@
+body {
+  font-family: "Montserrat", sans-serif;
+  font-family: "Ysabeau Infant", sans-serif;
+  background: #efd9d1;
+}
+
+.wrapper {
+  display: flex;
+  flex-direction: row-reverse;
+  justify-content: center;
+  width: 1500px;
+  margin: 0 auto;
+  background: #ffffff;
+  box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
+}
+
+main {
+  width: 1000px;
+  margin: 40px;
+}
+
+aside {
+  width: 500;
+  margin: 40px;
+}
+
+.details-item {
+  color: #cb9777;
+}
+
+.details {
+  font-size: 20px;
+  line-height: 24px;
+}
+
+.description {
+  font-size: 20px;
+  line-height: 24px;
+}
+
+.list {
+  line-height: 25px;
+}
+
+#headings {
+  text-shadow: 2px 2px #cb9777;
+}
+
+.list-item {
+  color: black;
+}
+
+.ingredients-list {
+  color: #cb9777;
+}
